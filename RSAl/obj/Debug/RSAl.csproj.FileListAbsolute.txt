@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\RSAl\RSAl\bin\Debug\RSAl.exe
+C:\Users\User\RiderProjects\RSAl\RSAl\bin\Debug\RSAl.pdb
+C:\Users\User\RiderProjects\RSAl\RSAl\obj\Debug\RSAl.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\RSAl\RSAl\obj\Debug\RSAl.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\RSAl\RSAl\obj\Debug\RSAl.exe
+C:\Users\User\RiderProjects\RSAl\RSAl\obj\Debug\RSAl.pdb

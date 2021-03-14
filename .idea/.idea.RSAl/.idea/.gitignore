@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.RSAl.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\User\RiderProjects\RSAl\.idea\.idea.RSAl\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

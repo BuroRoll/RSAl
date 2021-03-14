@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\RSAl\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\RSAl\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\Tests.dll
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\Tests.pdb
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\nunit.framework.dll
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\RSAl.exe
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\RSAl.pdb
+C:\Users\User\RiderProjects\RSAl\Tests\bin\Debug\nunit.framework.xml
+C:\Users\User\RiderProjects\RSAl\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\User\RiderProjects\RSAl\Tests\obj\Debug\Tests.dll
+C:\Users\User\RiderProjects\RSAl\Tests\obj\Debug\Tests.pdb
